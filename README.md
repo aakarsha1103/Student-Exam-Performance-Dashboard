@@ -9,7 +9,7 @@ The objective of the project appears to be analyzing factors influencing student
 Create a pie chart showing the distribution of students by gender.
 ##### Race/Ethnicity Distribution:
 Use a bar chart to visualize the number of students in each racial/ethnic group.
-###### Parental Education Level:
+##### Parental Education Level:
 Display a funnal chrt illustrating the frequency of parental education levels.
 ##### Average Scores by Category:
 Create grouped bar charts to display average math, reading, and writing scores based on gender, race/ethnicity, parental education level, lunch type, and test preparation completion status.
